@@ -20,4 +20,6 @@ This is a lightweight, blockchain prototype built from scratch in Python. It sim
 
 - Python 3.12
 - `hashlib`, `json`, `os`, `time`, `sys`
-- File-based JSON storage
+- Object Oriented Programming
+- File I/O
+
